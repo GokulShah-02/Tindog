@@ -150,7 +150,7 @@ p {
   padding: 3% 2%;
 }
 
-@media (max-width: 1205px) {
+@media (max-width: 1800px) {
   #title {
     text-align: center;
   }
